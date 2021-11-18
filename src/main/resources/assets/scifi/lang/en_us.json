@@ -1,0 +1,18 @@
+{
+	"item.scifi.aluminum_ingot": "Aluminum Ingot",
+	"item.scifi.bauxite_chunk": "Bauxite Chunk",
+	"item.scifi.titanium_ingot": "Titanium Ingot",
+	"item.scifi.rutile_chunk": "Rutile Chunk",
+	"item.scifi.tantalum_ingot": "Tantalum Ingot",
+	"item.scifi.tantilite_chunk": "Tantilite Chunk",
+	
+	"block.scifi.aluminum_block": "Aluminum Block",
+	"block.scifi.bauxite_block": "Bauxite Block",
+	"block.scifi.bauxite": "Bauxite",
+	"block.scifi.titanium_block": "Titanium Block",
+	"block.scifi.rutile_block": "Rutile Block",
+	"block.scifi.rutile": "Rutile",
+	"block.scifi.tantalum_block": "Tantalum Block",
+	"block.scifi.tantilite_block": "Tantilite Block",
+	"block.scifi.tantilite": "Tantilite"
+}

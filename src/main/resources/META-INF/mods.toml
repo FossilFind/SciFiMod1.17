@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT"
+issueTrackerURL="https://fossilfind.duckdns.org/scifi/issues"
+
+[[mods]]
+modId="scifi"
+version="${file.jarVersion}"
+displayName="SciFi Mod"
+#updateJSONURL="https://fossilfind.duckdns.org/scifi/updates.json"
+displayURL="https://fossilfind.duckdns.org/scifi"
+logoFile="logo.png"
+credits="Me"
+authors="FossilFind"
+description='''
+Science Fiction
+'''

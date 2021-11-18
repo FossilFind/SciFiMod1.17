@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"###",
+		"###",
+		"###"
+	],
+	"key":
+	{
+		"#":
+		{
+			"item": "scifi:titanium_ingot"
+		}
+	},
+	"result":
+	{
+		"item": "scifi:titanium_block"
+	}
+}

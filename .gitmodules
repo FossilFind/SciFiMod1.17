@@ -1,0 +1,3 @@
+[submodule "src\\main\\resources\\assets\\scifi\\textures"]
+	path = src\\main\\resources\\assets\\scifi\\textures
+	url = https://github.com/FossilFind/SciFiMod1.17-Textures

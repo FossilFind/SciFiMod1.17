@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:blasting",
+	"group": "tantalum_ingot",
+	"ingredient":
+	{
+		"item": "scifi:tantilite_chunk"
+	},
+	"result": "scifi:tantalum_ingot",
+	"experience": 0.7,
+	"cookingtime": 100
+}

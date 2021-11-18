@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{
+			"item": "scifi:bauxite_block"
+		}
+	],
+	"result":
+	{
+		"item": "scifi:bauxite_chunk",
+		"count": 9
+	}
+}

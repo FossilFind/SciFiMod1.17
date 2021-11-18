@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:blasting",
+	"group": "titanium_ingot",
+	"ingredient":
+	{
+		"item": "scifi:rutile_chunk"
+	},
+	"result": "scifi:titanium_ingot",
+	"experience": 0.7,
+	"cookingtime": 100
+}

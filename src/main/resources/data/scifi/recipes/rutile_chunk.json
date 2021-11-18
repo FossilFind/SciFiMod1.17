@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{
+			"item": "scifi:rutile_block"
+		}
+	],
+	"result":
+	{
+		"item": "scifi:rutile_chunk",
+		"count": 9
+	}
+}
