@@ -36,4 +36,6 @@ public final class SciFiItems
 	public static final RegistryObject<BlockItem> TANTALUM_BLOCK = ITEMS.register("tantalum_block", () -> new BlockItem(SciFiBlocks.TANTALUM_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 	public static final RegistryObject<BlockItem> TANTILITE_BLOCK = ITEMS.register("tantilite_block", () -> new BlockItem(SciFiBlocks.TANTILITE_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 	public static final RegistryObject<BlockItem> TANTILITE = ITEMS.register("tantilite", () -> new BlockItem(SciFiBlocks.TANTILITE.get(), new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+	//Machines
+	public static final RegistryObject<BlockItem> REFINERY = ITEMS.register("refinery", () -> new BlockItem(SciFiBlocks.REFINERY.get(), new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 }

@@ -1,6 +1,7 @@
 package org.duckdns.fossilfind.scifi.init;
 
 import org.duckdns.fossilfind.scifi.SciFi;
+import org.duckdns.fossilfind.scifi.block.RefineryBlock;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -25,4 +26,6 @@ public final class SciFiBlocks
 	public static final RegistryObject<Block> TANTALUM_BLOCK = BLOCKS.register("tantalum_block", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
 	public static final RegistryObject<Block> TANTILITE_BLOCK = BLOCKS.register("tantilite_block", () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_IRON_BLOCK)));
 	public static final RegistryObject<Block> TANTILITE = BLOCKS.register("tantilite", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)));
+	//Machines
+	public static final RegistryObject<Block> REFINERY = BLOCKS.register("refinery", () -> new RefineryBlock(BlockBehaviour.Properties.copy(Blocks.FURNACE)));
 }

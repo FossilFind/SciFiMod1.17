@@ -1,0 +1,7 @@
+{
+	"type": "scifi:refining",
+	"ingredient": "minecraft:iron_ore",
+	"result": "minecraft:iron_ingot",
+	"experience": 10,
+	"cookingtime": 200
+}

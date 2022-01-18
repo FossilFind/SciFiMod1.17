@@ -14,5 +14,8 @@
 	"block.scifi.rutile": "Rutile",
 	"block.scifi.tantalum_block": "Tantalum Block",
 	"block.scifi.tantilite_block": "Tantilite Block",
-	"block.scifi.tantilite": "Tantilite"
+	"block.scifi.tantilite": "Tantilite",
+	"block.scifi.refinery": "Refinery",
+	
+	"container.scifi.refinery": "Refinery"
 }
